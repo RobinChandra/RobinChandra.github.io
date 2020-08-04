@@ -480,8 +480,11 @@ textarea:hover {
 
   
   /* for preloader image: loader1.gif */
-  background-color: #000000;
-  
+  /* background-color: #000000; */
+
+  /* for preloader image: loader5.gif */
+  background-color: #111111;
+
   /* for preloader image: loader2.gif */
   /* background-color: #0E1E2F; */
   
@@ -490,9 +493,7 @@ textarea:hover {
 
   /* for preloader image: loader15.gif */
   /* background-color: #FFFFFF; */
-   
 
-  
   z-index: 99999;
   display: -webkit-box;
   display: -ms-flexbox;
