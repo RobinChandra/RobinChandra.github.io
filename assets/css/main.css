@@ -391,7 +391,7 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 #form {
   /*background:#3c4858;*/
   position: relative;
-  width: 40%;
+  width: 75%;
   margin: auto;
 }
 
@@ -470,6 +470,11 @@ textarea:hover {
 
 /*============================================*/
 /*End of Contact Section*/
+/*============================================*/
+
+/*============================================*/
+/* Preloader start */
+/*============================================*/
 
 .preloader {
   position: fixed;
@@ -509,3 +514,6 @@ textarea:hover {
 .no-js #preloader {
   display: none;
 }
+
+/*============================================*/
+/*============================================*/
