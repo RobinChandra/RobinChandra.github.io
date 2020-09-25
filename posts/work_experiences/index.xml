@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robin Chandra</title>
-    <link>https://robinchandra.github.io/</link>
-    <description>Recent content on Robin Chandra</description>
+    <title>Work Experiences on Robin Chandra</title>
+    <link>https://robinchandra.github.io/posts/work_experiences/</link>
+    <description>Recent content in Work Experiences on Robin Chandra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2020 06:20:50 +0600</lastBuildDate>
     
-	<atom:link href="https://robinchandra.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robinchandra.github.io/posts/work_experiences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://robinchandra.github.io/posts/work_experiences/chevron/</guid>
       <description>Introduction This is an account of my internship with Chevron. It was part of my course requirement. At first, I saw the opening on NUS Talent Connect, which is an online job listing platform aimed to help NUS students and alumni alike to find jobs, internships, etc. The application process is typical, but there is an interesting story to share during the interview.
 Hot and Humid On the day of the interview, I was not prepared for the hot and humid weather of Singapore.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to RC&#39;s Archive</title>
-      <link>https://robinchandra.github.io/posts/welcome/</link>
-      <pubDate>Mon, 03 Aug 2020 01:27:00 +0800</pubDate>
-      
-      <guid>https://robinchandra.github.io/posts/welcome/</guid>
-      <description>This website is created to be used as my autobiography, as a platform to share my experiences and also to practice my web developing skill. I came across this idea in June 2020, just as I finished my internship and have a bit of free time. Therefore, there might still be some bugs here and there. Don’t hesitate to give your feedback, ask questions, or even share your own experience.</description>
     </item>
     
   </channel>
