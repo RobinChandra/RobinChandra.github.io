@@ -19,12 +19,12 @@
   font-weight: 600;
 }
 
-/*#248aaa*/
+/*#003153*/
 
 .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: #248aaa;
+  background-color: #003153;
   color: #f9fafc;
   max-height: 50px;
   z-index: 2;
@@ -37,7 +37,7 @@
 .timeline .vertical-line::after {
   content: "";
   position: absolute;
-  border-left: 3px solid #248aaa;
+  border-left: 3px solid #003153;
   z-index: 1;
   height: 100%;
   left: 50%;
@@ -53,7 +53,7 @@
 }
 
 .timeline .horizontal-line hr {
-  border-top: 3px solid #248aaa;
+  border-top: 3px solid #003153;
   margin: 0;
   top: 17px;
   position: relative;
@@ -65,7 +65,7 @@
 }
 
 .timeline .horizontal-line .corner {
-  border: 3px solid #248aaa;
+  border: 3px solid #003153;
   width: 100%;
   position: relative;
   border-radius: 15px;
