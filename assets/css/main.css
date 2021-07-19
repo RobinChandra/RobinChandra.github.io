@@ -34,11 +34,11 @@ p {
 }
 
 a {
-  color: #003153;
+  color: #3B4248;
 }
 
 a:hover {
-  color: #003153;
+  color: #3B4248;
 }
 
 .nav-button {
@@ -58,29 +58,29 @@ a:hover {
 
 .btn-dark:hover,
 .btn-dark:focus {
-  background-color: #003153;
-  border-color: #003153;
+  background-color: #3B4248;
+  border-color: #3B4248;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
 }
 
 .btn-outline-info {
-  color: #003153 !important;
-  border-color: #003153 !important;
+  color: #3B4248 !important;
+  border-color: #3B4248 !important;
 }
 
 .btn-outline-info:hover {
-  background-color: #003153 !important;
+  background-color: #3B4248 !important;
   color: #e5e9f2 !important;
 }
 
 .btn-info {
-  background-color: #003153 !important;
+  background-color: #3B4248 !important;
   color: #e5e9f2 !important;
 }
 
 .btn-info:hover {
-  background-color: #003153 !important;
+  background-color: #3B4248 !important;
   color: #e5e9f2 !important;
 }
 
@@ -175,7 +175,7 @@ img.right {
 /* #1c2d41 */
 .footer {
   color: #8392a5 !important;
-  background-color: #002147;
+  background-color: #3B4248;
   position: relative;
   z-index: 9999;
 }
