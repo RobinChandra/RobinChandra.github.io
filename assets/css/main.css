@@ -288,7 +288,7 @@ img.right {
 }
 
 /* iPhoneX, iPhone 6,7,8 */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 425px) {
 }
 
 /* Galaxy S5, Moto G4 */
