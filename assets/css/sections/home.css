@@ -1,6 +1,6 @@
 .home {
   height: 100vh;
-  padding: auto;
+  padding: 0;
   margin: auto;
   color: #f9fafc;
   overflow: hidden;
@@ -26,8 +26,8 @@
 }
 
 .home img {
-  width: 148px;
-  height: 148px;
+  width: 100vh;
+  height: 100vh; /*148px*/
   background-color: #e7e7ef;
   padding: 5px;
   margin-bottom: 10px;
