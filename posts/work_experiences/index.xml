@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work Experiences on Robin Chandra</title>
+    <link>https://robinchandra.github.io/posts/work_experiences/</link>
+    <description>Recent content in Work Experiences on Robin Chandra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 06:20:50 +0600</lastBuildDate>
+    
+	<atom:link href="https://robinchandra.github.io/posts/work_experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internship with Chevron</title>
+      <link>https://robinchandra.github.io/posts/work_experiences/chevron/</link>
+      <pubDate>Fri, 25 Sep 2020 06:20:50 +0600</pubDate>
+      
+      <guid>https://robinchandra.github.io/posts/work_experiences/chevron/</guid>
+      <description>This is an account of my internship with Chevron. It was part of my course requirement. At first, I saw the opening on NUS Talent Connect, which is an online job listing platform aimed to help NUS students and alumni alike to find jobs, internships, etc. The application process is typical, but there is an interesting story to share during the interview.
+Hot and Humid On the day of the interview, I was not prepared for the hot and humid weather of Singapore.</description>
+    </item>
+    
+  </channel>
+</rss>
