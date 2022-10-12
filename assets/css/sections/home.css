@@ -1,6 +1,6 @@
 .home {
   height: 100vh;
-  padding: 0;
+  padding: auto;
   margin: auto;
   color: #f9fafc;
   overflow: hidden;
