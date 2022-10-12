@@ -15,7 +15,7 @@ var isMobile = false, isTablet = false, isLaptop = false;
 (function ($) {
   jQuery(document).ready(function () {
     function detectDevice() {
-      if (window.innerWidth <= 430) {
+      if (window.innerWidth <= 425) {
         isMobile = true;
         isTablet = false;
         isLaptop = false;

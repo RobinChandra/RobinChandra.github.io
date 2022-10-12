@@ -12,7 +12,7 @@ $(window).on('load', function () {
     var isMobile = false, isTablet = false, isLaptop = false;
 
     function detectDevice() {
-      if (window.innerWidth <= 430) {
+      if (window.innerWidth <= 425) {
         isMobile = true;
         isTablet = false;
         isLaptop = false;
