@@ -26,8 +26,8 @@
 }
 
 .home img {
-  width: 100vh;
-  height: 100vh; /*148px*/
+  width: 148px;
+  height: 148px; /*148px*/
   background-color: #e7e7ef;
   padding: 5px;
   margin-bottom: 10px;
